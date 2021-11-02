@@ -1,4 +1,5 @@
-# Project Template Repo
-## This is the template repo for the Project Universe repo.
+# refactored-computing-machine
+## A community metrics api and dashboard
+### Similar to [Orbit](https://orbit.love)
 
-### The Codeowners file deafults to * @J-dogcoder, but that will be adapted based on the repo.
+## _Awaiting dev. Contact if interested._
